@@ -22,7 +22,7 @@ L1正則化することでスパースにしたガウスカーネル回帰
 2層のニューラルネットをtensorflowやchainerを使わずにnumpyだけで実装しました。
 タスクは[MNIST](http://yann.lecun.com/exdb/mnist/)の手書き数字認識で、一層目の活性化関数にReLU、最終層の活性化関数にsoftmaxを使っています。
 
-### ナイーブベイズ
+### ナイーブベイズ(naive_bayes.py)
 
 ナイーブベイズを使ったシンプルなテキスト分類。
 データセットは[20Newsgroup](http://qwone.com/~jason/20Newsgroups/)。
