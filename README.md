@@ -25,4 +25,5 @@ L1正則化することでスパースにしたガウスカーネル回帰
 ### ナイーブベイズ
 
 ナイーブベイズを使ったシンプルなテキスト分類。
-データセットは20Newsgroup([http://qwone.com/~jason/20Newsgroups/])
+データセットは20Newsgroup(http://qwone.com/~jason/20Newsgroups/)。
+精度はF値が0.7696ぐらい。
